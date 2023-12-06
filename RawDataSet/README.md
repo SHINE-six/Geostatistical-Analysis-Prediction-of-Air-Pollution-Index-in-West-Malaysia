@@ -83,7 +83,21 @@
 
 **Population**
 {
-    Date:{
-        From:
+    Date: {
+        Page1:{
+            From: 2018,
+            To: 2018,
+            Interval: NA
+        },
+        Page2:{
+            From: 2019,
+            To: 2019,
+            Interval: NA
+        },
+        Record: NA,
+        Attribute: 3,
+        LocationType: [Coordinates],
+        Description: "Population count per KM square unit in Malaysia",
+        DataSource: "https://data.humdata.org/dataset/worldpop-population-density-for-malaysia"
     }
 }
