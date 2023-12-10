@@ -1,0 +1,87 @@
+"","location","lon","lat","treecover2018","treecover2019"
+"6","Batu Pahat , Johor , Malaysia",102.9288341,1.849442,143326,139992
+"14","Johor Baharu , Johor , Malaysia",103.7413591,1.492659,37802,35925
+"22","Keluang , Johor , Malaysia",103.3184639,2.030068,191363,185080
+"30","Kota Tinggi , Johor , Malaysia",103.899227,1.729375,239583,235136
+"38","Kulaijaya , Johor , Malaysia",103.6060338,1.6582668,48110,46974
+"46","Ledang , Johor , Malaysia",102.5986597,2.3433634,67943,65663
+"54","Mersing , Johor , Malaysia",103.8361151,2.430917,227558,225069
+"62","Muar , Johor , Malaysia",102.5848717,2.0630519,99082,96757
+"70","Pontian , Johor , Malaysia",103.388961,1.4869255,62281,60972
+"78","Segamat , Johor , Malaysia",102.8207542,2.50346,203960,199027
+"86","Baling , Kedah , Malaysia",100.9158818,5.673566,124510,122522
+"94","Bandar Baharu , Kedah , Malaysia",100.4952408,5.1302847,19524,18974
+"102","Kota Setar , Kedah , Malaysia",100.3539766,6.0969533,843,836
+"110","Kuala Muda , Kedah , Malaysia",100.3743503,5.5862766,53732,52778
+"118","Kubang Pasu , Kedah , Malaysia",100.4370188,6.37261,31352,30462
+"126","Kulim , Kedah , Malaysia",100.5553372,5.371742,52497,51182
+"142","Padang Terap , Kedah , Malaysia",100.6110339,6.2567642,91486,88921
+"150","Pendang , Kedah , Malaysia",100.4773388,5.993039,22638,21812
+"158","Pokok Sena , Kedah , Malaysia",100.519358,6.167317,10426,9777
+"166","Sik , Kedah , Malaysia",100.7442359,5.8194835,139574,137853
+"174","Yan , Kedah , Malaysia",100.372658,5.79495,5864,5813
+"182","Bachok , Kelantan , Malaysia",102.394478,6.0476558,6513,6357
+"190","Gua Musang , Kelantan , Malaysia",101.968178,4.884279,608153,591669
+"198","Jeli , Kelantan , Malaysia",101.8431511,5.700699,118881,117681
+"206","Kota Bharu , Kelantan , Malaysia",102.2379201,6.1251424,12137,11887
+"214","Kuala Krai , Kelantan , Malaysia",102.2018512,5.530813,172665,167180
+"222","Machang , Kelantan , Malaysia",102.2153872,5.767933,37942,37104
+"230","Pasir Mas , Kelantan , Malaysia",102.142782,6.042412,32285,31559
+"238","Pasir Putih , Kelantan , Malaysia",102.4055287,5.835925,17141,16702
+"246","Tanah Merah , Kelantan , Malaysia",102.1470772,5.808887,59721,58368
+"254","Tumpat , Kelantan , Malaysia",102.169372,6.199069,5644,5624
+"262","Kuala Lumpur , Kuala Lumpur , Malaysia",101.6954435,3.1416304,4580,4551
+"278","Alor Gajah , Melaka , Malaysia",102.2115611,2.382211,38522,36821
+"286","Jasin , Melaka , Malaysia",102.4309231,2.311337,46255,44339
+"294","Melaka Tengah , Melaka , Malaysia",102.2886898,2.2710512,7923,7723
+"302","Jelebu , Negeri Sembilan , Malaysia",102.0719101,2.9410716,111367,110032
+"310","Jempol , Negeri Sembilan , Malaysia",102.4054538,2.8965766,85395,82495
+"318","Kuala Pilah , Negeri Sembilan , Malaysia",102.2488718,2.740474,74247,72725
+"326","Port Dickson , Negeri Sembilan , Malaysia",101.7962932,2.52254,36774,35839
+"334","Rembau , Negeri Sembilan , Malaysia",102.0929861,2.590525,26526,25846
+"342","Seremban , Negeri Sembilan , Malaysia",101.9378239,2.725889,58421,57237
+"350","Tampin , Negeri Sembilan , Malaysia",102.231194,2.472971,55534,54418
+"358","Bentong , Pahang , Malaysia",101.910353,3.522168,135086,132526
+"366","Bera , Pahang , Malaysia",102.4538639,3.2705262,154299,149295
+"374","Cameron Highlands , Pahang , Malaysia",101.3801441,4.4721201,61992,61920
+"382","Jerantut , Pahang , Malaysia",102.3620378,3.937395,639527,630738
+"390","Kuantan , Pahang , Malaysia",103.3317173,3.8168287,212117,206655
+"398","Lipis , Pahang , Malaysia",102.0542321,4.18433,463808,458476
+"406","Maran , Pahang , Malaysia",102.7790651,3.58338,155480,152913
+"414","Pekan , Pahang , Malaysia",103.3895446,3.492095,260263,250931
+"422","Raub , Pahang , Malaysia",101.8574651,3.793532,188681,183286
+"430","Rompin , Pahang , Malaysia",103.4862113,2.7944593,303274,294188
+"438","Temerloh , Pahang , Malaysia",102.4163482,3.448649,166633,163560
+"446","Batang Padang , Perak , Malaysia",101.2592696,4.1974675,214650,209331
+"454","Hilir Perak , Perak , Malaysia",101.0248941,4.0197905,106337,102772
+"462","Hulu Perak , Perak , Malaysia",101.1276751,5.4277822,581863,578680
+"470","Kampar , Perak , Malaysia",101.1536528,4.308504,61939,60920
+"478","Kerian , Perak , Malaysia",100.5349068,5.0110842,50932,49918
+"486","Kinta , Perak , Malaysia",101.0899487,4.5980891,134361,133282
+"494","Kuala Kangsar , Perak , Malaysia",100.9420448,4.773595,211076,208276
+"502","Larut and Matang , Perak , Malaysia",100.743609,4.8547216,105306,103591
+"510","Manjung , Perak , Malaysia",100.7097867,4.4022491,63837,62472
+"518","Perak Tengah , Perak , Malaysia",100.9554286,4.3630034,72476,71120
+"526","Perlis , Perlis , Malaysia",100.1934161,6.4373957,23408,22257
+"534","Barat Daya , Pulau Pinang , Malaysia",100.2358974,5.3519033,11555,11489
+"542","Seberang Perai Selatan , Pulau Pinang , Malaysia",100.4921295,5.1958374,10077,9854
+"550","Seberang Perai Tengah , Pulau Pinang , Malaysia",100.4517935,5.353468,6467,6367
+"558","Seberang Perai Utara , Pulau Pinang , Malaysia",100.4355477,5.5148341,4907,4841
+"566","Timur Laut , Pulau Pinang , Malaysia",100.328495,5.4142071,5779,5770
+"574","Putrajaya , Putrajaya , Malaysia",101.696445,2.926361,2151,2096
+"1030","Gombak , Selangor , Malaysia",101.6533256,3.2535016,41917,41413
+"1038","Hulu Langat , Selangor , Malaysia",101.8159546,3.1132958,53881,53349
+"1046","Hulu Selangor , Selangor , Malaysia",101.6583123,3.5601046,136960,134974
+"1054","Klang , Selangor , Malaysia",101.4455621,3.044917,25294,24967
+"1062","Kuala Langat , Selangor , Malaysia",101.4950699,2.8038283,50711,49378
+"1070","Kuala Selangor , Selangor , Malaysia",101.249762,3.340184,80758,78371
+"1078","Petaling , Selangor , Malaysia",101.5359674,3.1846237,11490,11330
+"1086","Sabak Bernam , Selangor , Malaysia",100.9836551,3.769601,70529,69873
+"1094","Sepang , Selangor , Malaysia",101.7352881,2.8059607,30909,30192
+"1102","Besut , Trengganu , Malaysia",102.5635028,5.7952741,83741,82731
+"1110","Dungun , Trengganu , Malaysia",103.4183495,4.7645344,223815,221573
+"1118","Hulu Terengganu , Trengganu , Malaysia",103.0089371,5.0730424,313208,311100
+"1126","Kemaman , Trengganu , Malaysia",103.4211031,4.235359,187168,182774
+"1134","Kuala Terengganu , Trengganu , Malaysia",103.1412157,5.3283231,31268,30564
+"1142","Marang , Trengganu , Malaysia",103.204944,5.207711,42518,40624
+"1150","Setiu , Trengganu , Malaysia",102.7460482,5.5196889,94058,92013
