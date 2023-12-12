@@ -18,7 +18,15 @@
         Page1:{
             From: 01-06-2018,
             To: 30-06-2018,
-            Interval: "Once per day"
+            Interval: "Once per day",
+            Exception: {
+                Attribute: "Precipitation",
+                Record: "Kuala Terengganu",
+                From: 01-01-2018,
+                To: 31-12-2018,
+                Explanation: "June 2018, Kuala Terengganu, precipitation appear to be outlier, 1.71, among surrounding average of 5.0 to 5.5, thus recapture of Kuala Terengganu, precipitation over 365 days in 2018 is done",
+                Changover: "does not direct changes in RawDataSet (Meteo2018), but direct manual cutover in PreparedDataSet (Meteo_18) from value 1.70666666666667 to 5.216164384"
+            }
         },
         Page2:{
             From: 01-06-2019,
