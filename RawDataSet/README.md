@@ -47,7 +47,7 @@
     Attribute: 3,
     LocationType: [ Coordinates],
     DatePosted: 31-01-2020
-    Description: "Altitude in meter for each km square of west malaysia, (not clip)",
+    Description: "Altitude in meter for each km square of whole Malaysia, (not clip)",
     DataSource: "https://figshare.com/articles/dataset/Malaysia_elevation_data/11777646"
 }
 
