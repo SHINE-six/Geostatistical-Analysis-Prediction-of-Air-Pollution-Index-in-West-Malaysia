@@ -9,6 +9,13 @@
     Attribute: 66,
     LocatonType: [LocationName],
     Description: "Air Pollution Index of Whole Malaysia, 65 location as attributes",
+    Exception: {
+        Attribute: "API",
+        Location: "Minden (Geocode error coded for padang tengku, kuala lipis, pahang), Coordinates: (101.975766,4.210484)",
+        Year: 2017,
+        Explanation: "Padang Tengku, (Wrongly coded as Minden), 2017, average API value is 45, appear to be outlier among supposely lower than 38, deep investigate found out in 2017, the record of Minden is missing for 6207 times, out of total 8760 available record = 71% missing, thus due to outlier and missing record, Minden is to be removed from PreparedDataSet (API_17)",
+        Changover: "does not direct changes in RawDataSet (API), but direct manual cutover in PreparedDataSet (API_17) from value 45 to NA"
+    }
     DataSource: "https://www.kaggle.com/datasets/ynshung/malaysia-air-pollution-index"
 }
 
@@ -16,6 +23,11 @@
 {
     Date: {
         Page1:{
+            From: 01-06-2017,
+            To: 30-06-2017,
+            Interval: "Once per day"
+        },
+        Page2:{
             From: 01-06-2018,
             To: 30-06-2018,
             Interval: "Once per day",
@@ -28,7 +40,7 @@
                 Changover: "does not direct changes in RawDataSet (Meteo2018), but direct manual cutover in PreparedDataSet (Meteo_18) from value 1.70666666666667 to 5.216164384"
             }
         },
-        Page2:{
+        Page3:{
             From: 01-06-2019,
             To: 30-06-2019,
             Interval: "Once per day"
@@ -93,11 +105,16 @@
 {
     Date: {
         Page1:{
+            From: 2017,
+            To: 2017,
+            Interval: NA
+        },
+        Page2:{
             From: 2018,
             To: 2018,
             Interval: NA
         },
-        Page2:{
+        Page3:{
             From: 2019,
             To: 2019,
             Interval: NA
