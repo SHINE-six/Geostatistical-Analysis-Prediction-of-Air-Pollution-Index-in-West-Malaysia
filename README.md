@@ -18,6 +18,6 @@ flow of repository
 6) Go through [Kriging.ipynb](Kriging.ipynb), and addtional software QGIS will have to be install from [https://www.qgis.org/en/site/forusers/download.html](https://www.qgis.org/en/site/forusers/download.html), you will not be able to execute without the provided westmalaysia shapefile from author, addtional optaional: personal setup of static map can be attempt yourself, same goes for the origin of [QGIS/StructureGrid](QGIS/StructureGrid), as the setting is highly calibrated
 7) Explore the [FinalSuperset/FinalSuperset.csv](FinalSuperset/FinalSuperset.csv), and understand the dataset, such as opinion justification of missing value or such
 8) Go through [Cleaning.ipynb](Cleaning.ipynb)
-9) Explore the [FinalSuperset/FinalSuperset_19.csv](FinalSuperset/FinalSuperset_18.csv) and [FinalSuperset/FinalSuperset_19.csv](FinalSuperset/FinalSuperset_19.csv)
+9) Explore the [FinalSuperset/FinalSuperset_18.csv](FinalSuperset/FinalSuperset_18.csv) and [FinalSuperset/FinalSuperset_19.csv](FinalSuperset/FinalSuperset_19.csv)
 10) Congrat yourself
 11) Make use of other platform such as SAS Enterprise Miner to further perform data mining, and train a model, for prediction of attribute
